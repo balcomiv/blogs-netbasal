@@ -15,3 +15,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - `npm i @briebug/cypress-schematic`
 
 - `npx sb init`
+
+# Articles
+
+- https://netbasal.com/implementing-event-modifiers-in-angular-87e1a07969ce
